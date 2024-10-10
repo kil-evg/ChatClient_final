@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Message">
+    <output-path>$PROJECT_DIR$/out/artifacts/Message</output-path>
+    <root id="archive" name="Message.jar">
+      <element id="directory" name="ait">
+        <element id="directory" name="chat">
+          <element id="directory" name="model">
+            <element id="file-copy" path="$PROJECT_DIR$/src/ait/chat/model/Message.java" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
